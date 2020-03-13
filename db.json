@@ -1,5 +1,5 @@
 
-  {"posts": {"Account": "Elviz", "Currency": "USD","Bal":50,"Qty":5,"Mtm":0 }}
+  {"posts": [{"Account": "Elviz", "Currency": "USD","Bal":50,"Qty":5,"Mtm":0 }]}
 
 
 
